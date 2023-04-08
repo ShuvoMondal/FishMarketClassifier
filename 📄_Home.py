@@ -23,7 +23,7 @@ st.markdown('''
     - Height: Height of the Fish in centimeters
     - Width: Diagonal width of the Fish in centimeters
 ''')
-fish_daigram = Image.open('./fishes/fish_size.jpg')
+fish_daigram = Image.open('fish_size.jpg')
 st.image(fish_daigram)
 st.write("Based on the label from sciencedirect.com I think the below names should be used instead of :")
 st.markdown('''
