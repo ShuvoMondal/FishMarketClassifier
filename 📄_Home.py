@@ -12,7 +12,7 @@ st.title("Fish Market Dataset")
 st.markdown("![FISH GIF](https://media1.tenor.com/images/09a22b7bb2872243dfdd7bcdf88dc09e/tenor.gif?itemid=7957236)")
 st.subheader("About")
 st.write("This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model can be performed using machine friendly data and estimate the species of fish can be predicted.")
-st.markdown("Starter Notebook : [data-science-jobs-in-india](https://www.kaggle.com/datasets/aungpyaeap/fish-market)")
+st.markdown("Starter Notebook : [fish-market-data-set](https://www.kaggle.com/datasets/aungpyaeap/fish-market)")
 st.subheader("Attribute Information")
 st.markdown('''
     - Species: Type of Fish
